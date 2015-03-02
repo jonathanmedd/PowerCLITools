@@ -2,7 +2,7 @@
 
 PowerCLITools provides additional functions via a PowerShell module to use with PowerCLI from VMware.
 
-It is formed from a set of functions that I have built up overtime from consulting experiences in the field and essentially plugs a few gaps in the coverage of PowerCLI.
+It is formed from a set of functions that I have built up over time from consulting experiences in the field and essentially plugs a few gaps in the coverage of PowerCLI.
 
 **Pre-Requisites**
 
