@@ -6,6 +6,8 @@ It is formed from a set of functions that I have built up over time from consult
 
 **Pre-Requisites**
 
+PowerShell version 4 or later.
+
 Ensure that VMware PowerCLI is installed. Functions have been tested against v5.8 R1.
 
 
