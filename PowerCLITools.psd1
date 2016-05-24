@@ -12,7 +12,7 @@
 ModuleToProcess = ''
 
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.0.1'
 
 # ID used to uniquely identify this module
 GUID = 'b3b54c52-493a-4303-9152-a33fb727df68'
@@ -95,7 +95,7 @@ NestedModules = 'Functions\Add-vCenterLicense.psm1',
 				'Functions\Update-VMScsiDeviceOrder.psm1'
 
 # Functions to export from this module
-FunctionsToExport = '*'
+FunctionsToExport = 'Add-vCenterLicense','Get-ClusterAverageCpuMemory','Get-CurrentVIServer','Get-SnapshotCreator','Get-vCenterLicense','Get-VMCreationDate','Get-VMDiskData','Get-VMHostAlarm','Get-VMHostDumpCollector','Get-VMHostiSCSIBinding','Get-VMHostLicense','Get-VMHostNetworkAdapterCDP','Get-VMHostSyslogConfig','Get-VMIPAddressFromNetwork','Get-VMSCSIID','Install-vSphereClient','Install-vSpherePowerCLI','New-vCenterPermission','New-vCenterRole','New-VMFromSnapshot','Remove-vCenterLicense','Set-VMHostDumpCollector','Set-VMHostiSCSIBinding','Set-VMHostLicense','Set-VMHostSyslogConfig','Set-VMHostToCurrentDateAndTime','Test-VIServerConnection','Update-ESXiSSL','Update-VMNotesWithOwner','Update-VMScsiDeviceOrder'
 
 # Cmdlets to export from this module
 CmdletsToExport = '*'
