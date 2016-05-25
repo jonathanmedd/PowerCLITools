@@ -66,7 +66,7 @@ Update-VMScsiDeviceOrder
 
 **Nested Modules**
 
-You will note that each function is itself a nested module of the PowerCLITools module. In this [blog post](www.jonathanmedd.net/2013/11/powercli-in-the-enterprise-breaking-the-magicians-code-function-templates.html) I describe why I make my modules like this.
+You will note that each function is itself a nested module of the PowerCLITools module. In this [blog post](http://www.jonathanmedd.net/2013/11/powercli-in-the-enterprise-breaking-the-magicians-code-function-templates.html) I describe why I make my modules like this.
 
 
 
